@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True --ServerApp.token='' --ServerApp.allow_origin='*' --theme=dark policystorm.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True --Voila.ip=0.0.0.0 --theme=dark policystorm.ipynb
