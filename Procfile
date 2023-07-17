@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True --theme=dark policystorm.ipynb
+web: voila --port=$PORT --no-browser --theme=dark policystorm.ipynb
