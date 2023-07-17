@@ -4,3 +4,4 @@ tiktoken
 retrying
 ipywidgets
 voila
+jupyter
